@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="move.it" title="" src=".github/logo.png" />
+  <img alt="" title="" src=".github/logo.png" />
 </h1>
 
 <p align="center">
@@ -26,9 +26,9 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - []()
-- [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- []()
+- []()
+- [](h)
 
 ## 💻 Projeto
 
